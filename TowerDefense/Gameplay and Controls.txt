@@ -1,0 +1,27 @@
+
+Gameplay:
+
+
+*Enemies will start to spawn when you deploy all your turrets, until the enemies eat all crystals on the board.
+
+
+
+Controls:
+
+
+Camera:
+
+-Use WASD keys to move the camera.
+
+-Use the scroll button to make zomm in/out
+
+-Use sapce key to reset the camera to default position.
+
+-Use right mouse button to rotate the camera.
+
+
+Player:
+
+-Use Left mouse button to deploy turrets on the board.
+
+-Use right mouse button over a turret to upgrade to the next level. (Need coins and full upgrade bar).
